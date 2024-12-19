@@ -1,4 +1,4 @@
 # apna-demo
 This is my first Git Repository.
 <br>
-Author - Darshan Lohade
+Author - Darshan (Apna demo)
